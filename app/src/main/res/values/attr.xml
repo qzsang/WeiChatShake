@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="PartImageView">
+        <attr name="startHeight" format="float" />
+        <attr name="endHeight" format="float" />
+    </declare-styleable>
+</resources>
